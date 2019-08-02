@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac87a31d-b0d5-4b09-80d4-653eab65f43f" name="Default" comment="" />
+    <list default="true" id="ac87a31d-b0d5-4b09-80d4-653eab65f43f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../test/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -69,11 +71,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1872" />
-    <option name="y" value="-11" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1913" />
+    <option name="y" value="53" />
     <option name="width" value="1934" />
-    <option name="height" value="821" />
+    <option name="height" value="925" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -86,32 +88,6 @@
             <path>
               <item name="search" type="b2602c69:ProjectViewProjectNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="search" type="b2602c69:ProjectViewProjectNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-              <item name="dd" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="search" type="b2602c69:ProjectViewProjectNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-              <item name="dd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="search" type="b2602c69:ProjectViewProjectNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-              <item name="dd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="search" type="b2602c69:ProjectViewProjectNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-              <item name="dd" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +179,7 @@
       <workItem from="1564480905677" duration="1257000" />
       <workItem from="1564537352193" duration="3777000" />
       <workItem from="1564561364026" duration="649000" />
-      <workItem from="1564734193663" duration="1110000" />
+      <workItem from="1564734193663" duration="1932000" />
     </task>
     <task id="LOCAL-00001" summary="33">
       <created>1564481051658</created>
@@ -216,7 +192,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6793000" />
+    <option name="totallyTimeSpent" value="7615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,25 +204,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1872" y="-11" width="1934" height="821" extended-state="1" />
+    <frame x="1913" y="53" width="1934" height="925" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49786323" weight="0.32878152" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5064447" side_tool="true" visible="true" weight="0.23708206" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5064447" side_tool="true" visible="true" weight="0.18766405" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.4935553" visible="true" weight="0.23708206" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.4935553" visible="true" weight="0.18766405" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="Run with VisualVM" order="1" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.58565736" visible="true" weight="0.29269603" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.5848142" visible="true" weight="0.29269603" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Structure" order="6" sideWeight="0.41434264" side_tool="true" visible="true" weight="0.29269603" />
+      <window_info id="Structure" order="6" sideWeight="0.41518578" side_tool="true" visible="true" weight="0.29269603" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -353,7 +330,7 @@
     <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
