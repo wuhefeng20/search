@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac87a31d-b0d5-4b09-80d4-653eab65f43f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ac87a31d-b0d5-4b09-80d4-653eab65f43f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../test/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="search.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="search.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -24,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search-dev.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="search-dev.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -58,6 +56,7 @@
         <option value="$PROJECT_DIR$/dd/src/main/resource/wuhefeng20-dev.properties" />
         <option value="$PROJECT_DIR$/dd/src/main/resource/wuhefeng20.properties" />
         <option value="$PROJECT_DIR$/dd/src/main/resource/wuhefeng20-prod.properties" />
+        <option value="$PROJECT_DIR$/dd/src/main/resource/search-dev.properties" />
       </list>
     </option>
   </component>
@@ -70,9 +69,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="98" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1872" />
+    <option name="y" value="-11" />
     <option name="width" value="1934" />
     <option name="height" value="821" />
   </component>
@@ -204,7 +203,7 @@
       <workItem from="1564480905677" duration="1257000" />
       <workItem from="1564537352193" duration="3777000" />
       <workItem from="1564561364026" duration="649000" />
-      <workItem from="1564734193663" duration="606000" />
+      <workItem from="1564734193663" duration="1110000" />
     </task>
     <task id="LOCAL-00001" summary="33">
       <created>1564481051658</created>
@@ -217,7 +216,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6289000" />
+    <option name="totallyTimeSpent" value="6793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,8 +228,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="98" width="1934" height="821" extended-state="0" />
-    <editor active="true" />
+    <frame x="1872" y="-11" width="1934" height="821" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49786323" weight="0.32878152" />
@@ -242,11 +240,11 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.4935553" visible="true" weight="0.23708206" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.4935553" visible="true" weight="0.23708206" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info anchor="bottom" id="Run with VisualVM" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.58565736" visible="true" weight="0.29269603" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.58565736" visible="true" weight="0.29269603" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="6" sideWeight="0.41434264" side_tool="true" visible="true" weight="0.29269603" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -338,13 +336,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-dev.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-prod.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -356,6 +347,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
