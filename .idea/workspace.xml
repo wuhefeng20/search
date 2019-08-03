@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac87a31d-b0d5-4b09-80d4-653eab65f43f" name="Default" comment="" />
+    <list default="true" id="ac87a31d-b0d5-4b09-80d4-653eab65f43f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/dd/src/main/resource/search-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dd/src/main/resource/search-dev.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../test/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -204,7 +206,7 @@
       <workItem from="1564537352193" duration="3777000" />
       <workItem from="1564561364026" duration="649000" />
       <workItem from="1564734193663" duration="4249000" />
-      <workItem from="1564798142076" duration="239000" />
+      <workItem from="1564798142076" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="33">
       <created>1564481051658</created>
@@ -217,7 +219,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10222000" />
+    <option name="totallyTimeSpent" value="10462000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,8 +231,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49786323" weight="0.32878152" />
@@ -362,13 +363,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-prod.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -376,10 +370,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-prod.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dd/src/main/resource/search-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="36" selection-start-column="36" selection-end-column="36" />
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
